@@ -27,6 +27,6 @@ Further analysis could explore:
 ## 📬 Contact
 Feel free to connect with me on LinkedIn at Linkedin.com/in/amirrah
 
-## 💡 View Project
+## ✅ View Project
 https://public.tableau.com/views/Book2_17484749529100/PredictorsofSocialBehavior?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
